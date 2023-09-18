@@ -19,20 +19,23 @@
 		"neutralNo": ["Não vejo beneficio nisso.","eh... não?","recusamos educadamente"],
 		"neutralYes": ["me parece bom.","claro que sim.","isso me parece bem."],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "ola",
+		"hateLetsHearIt": ["fale","o que você","pode ir."],
+		"hateNo": ["não posso fazer isso","não concordamos","perdão oque?"],
+		"hateYes": ["ok.","justo.","concordo"],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "finalmente você encontrou a razão.",
+		"tradeRequest": "gostariamos de proporcionar uma troca que beneficiaria ambos.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"outerColor": [238,232,170],
+		"innerColor": [255,2220,20],
+		"uniques": ["[Great Scientist] is earned [200]% faster", "City-State territory always counts as friendly territory",
+			"[+20]% Production when constructing [All] wonders [in all cities]", "Double quantity of [Horses] produced",
+			"[+10 Gold] from each Trade Route", "[-75]% Gold cost of acquiring tiles [in all cities]", 
+			"When conquering an encampment, earn [80] Gold and recruit a Barbarian unit <with [25]% chance>", 
+			"Receive a tech boost when scientific buildings/wonders are built in capital", "[+7 Science] from every specialist [in all cities]", 
+			"[+50]% Golden Age length", "[+3] Movement <for [All] units> <during a Golden Age>", "When declaring friendship, both parties gain a [10]% boost to great person generation"],
+		"cities": ["Canterlot","Ponyville","Cloudsdale","Manehattan","Fillydelphia","Whinnyapolis","Bales",
+			"Trottingham","Baltimare","Rockville","Las Pegasus","Vanhoover","Appleloosa","Hoofington"]
 	}
 ]
