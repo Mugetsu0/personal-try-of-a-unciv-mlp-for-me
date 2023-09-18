@@ -1,23 +1,23 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Equestria",
+		"leaderName": "Celestia e Luna",
+		"adjective": ["poneis"],
+		"startBias": ["Forest"],
+		"preferredVictoryType": "Diplomatic",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "sejam muito bem vindos a terra da harmonia",
+		"startIntroPart2": "seja prudente em suas escolhas afinal somos dois governantes e duas cabeças são melhores que um",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "Será seu ultimo insulto perante nós",
+		"attacked": "por que atacar um povo pacifico e um possivel aliado",
+		"defeated": "M-meus ponies...",
+		"introduction": "sejam muito bem vindos a terra da harmonia, espero que possamos estabelecer uma bela amizade.",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "seu dia está agradavel?",
+		"neutralLetsHearIt": ["te desafio contra nosso poder.","o que provocou isso?","não cairei semlutar."],
+		"neutralNo": ["Não vejo beneficio nisso.","eh... não?","recusamos educadamente"],
+		"neutralYes": ["me parece bom.","claro que sim.","isso me parece bem."],
 
 		"hateHello": "What do you want now?",
 		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
